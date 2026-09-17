@@ -1,0 +1,18 @@
+{
+  "name": "تبصرة - مساعدك الشرعي الرقمي",
+  "short_name": "تبصرة",
+  "description": "مساعد شرعي رقمي للإجابة على الفتاوى والأحكام من المصادر الموثوقة",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "bot-logo.png?v=2",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+
+    }
+  ]
+}
